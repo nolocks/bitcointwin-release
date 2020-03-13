@@ -1,5 +1,5 @@
 ### BITCOINTWIN
-<img src="https://pbs.twimg.com/profile_banners/1170476737337188352/1568882897/600x200" width="100%">
+![image](https://pbs.twimg.com/profile_images/1179290642939146240/TNXUAheq_400x400.png)
 
 ##### Source
 GITHUB - https://github.com/nolocks/bitcointwin  
