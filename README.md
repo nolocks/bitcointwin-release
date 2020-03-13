@@ -1,28 +1,28 @@
 ### BITCOINTWIN
 
-##### Source
+#### Source
 GITHUB - https://github.com/nolocks/bitcointwin  
 
-##### Release
+#### Release
 GITHUB - https://github.com/nolocks/bitcointwin-release  
 
-##### Info
+#### Info
 EXPLORER1 - http://block.bitcointwin.org  
 EXPLORER2 - http://chain.bitcointwin.org  
 
-P2POOL1  
+##### P2POOL1  
 - HTTP - http://caramel.p2pool.bitcointwin.org  
 - MINING - `[minerd -a sha256d -o stratum+tcp://80.78.240.191:9332 -u [address] -p awd -t 1]`  
 
-P2POOL2
+##### P2POOL2
 - HTTP - http://compote.p2pool.bitcointwin.org  
 - MINING - `[minerd -a sha256d -o stratum+tcp://151.248.114.191:9332 -u [address] -p awd -t 1]`  
 
-P2POOL3
+##### P2POOL3
 - HTTP - http://shortbread.p2pool.bitcointwin.org  
 - MINING - `[minerd -a sha256d -o stratum+tcp://80.78.248.25:9332 -u [address] -p awd -t 1]`  
 
-##### Social
+#### Social
 TWITTER - https://twitter.com/bitcointwin  
 DISCORD - https://discord.gg/cGMZDH  
 
