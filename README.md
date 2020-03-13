@@ -1,13 +1,21 @@
 ### BITCOINTWIN
 
-##### Info
-DISCORD - https://discord.gg/cGMZDH  
+##### Source
 GITHUB - https://github.com/nolocks/bitcointwin  
+
+##### Release
+GITHUB - https://github.com/nolocks/bitcointwin-release  
+
+##### Info
 EXPLORER1 - http://block.bitcointwin.org  
 EXPLORER2 - http://chain.bitcointwin.org  
 P2POOL1 - http://caramel.p2pool.bitcointwin.org  
 P2POOL2 - http://compote.p2pool.bitcointwin.org  
 P2POOL3 - http://shortbread.p2pool.bitcointwin.org  
+
+##### Social
+TWITTER - https://twitter.com/bitcointwin  
+DISCORD - https://discord.gg/cGMZDH  
 
 ##### Nodes
 NODE1 - 134.0.115.57:8333  
