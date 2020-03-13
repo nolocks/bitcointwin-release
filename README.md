@@ -10,6 +10,7 @@ GITHUB - https://github.com/nolocks/bitcointwin-release
 EXPLORER1 - http://block.bitcointwin.org  
 EXPLORER2 - http://chain.bitcointwin.org  
 
+##### Pool  
 ###### P2POOL1  
 - HTTP - http://caramel.p2pool.bitcointwin.org  
 - MINING - `[minerd -a sha256d -o stratum+tcp://80.78.240.191:9332 -u [address] -p awd -t 1]`  
