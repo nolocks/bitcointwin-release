@@ -14,6 +14,50 @@
 ###### EXPLORER1 - http://block.bitcointwin.org  
 ###### EXPLORER2 - http://chain.bitcointwin.org  
 
+##### API
+###### EXPLORER1 - http://block.bitcointwin.org/api  
+###### EXPLORER2 - http://chain.bitcointwin.org/api  
+
+##### Transactions
+###### `GET /tx/:txid`
+###### `GET /tx/:txid/status`
+###### `GET /tx/:txid/hex`
+###### `GET /tx/:txid/raw`
+###### `GET /tx/:txid/merkleblock-proof`
+###### `GET /tx/:txid/merkle-proof`
+###### `GET /tx/:txid/outspend/:vout`
+###### `GET /tx/:txid/outspends`
+###### `POST /tx`
+
+##### Addresses
+###### `GET /address/:address`
+###### `GET /scripthash/:hash`
+###### `GET /address/:address/txs`
+###### `GET /scripthash/:hash/txs`
+###### `GET /address/:address/txs/chain[/:last_seen_txid]`
+###### `GET /scripthash/:hash/txs/chain[/:last_seen_txid]`
+###### `GET /address/:address/txs/mempool`
+###### `GET /scripthash/:hash/txs/mempool`
+###### `GET /address/:address/utxo`
+###### `GET /scripthash/:hash/utxo`
+###### `GET /address-prefix/:prefix`
+
+##### Blocks
+###### `GET /block/:hash`
+###### `GET /block/:hash/status`
+###### `GET /block/:hash/txs[/:start_index]`
+###### `GET /block/:hash/txids`
+###### `GET /block/:hash/txid/:index`
+###### `GET /block/:hash/raw`
+###### `GET /block-height/:height`
+###### `GET /blocks[/:start_height]`
+###### `GET /blocks/tip/height`
+###### `GET /blocks/tip/hash`
+
+##### Mempool
+###### `GET /mempool`
+###### `GET /mempool/txids`
+###### `GET /mempool/recent`
 
 ##### Pool  
 ###### P2POOL1  
