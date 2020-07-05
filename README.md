@@ -60,18 +60,10 @@
 ###### `GET /mempool/recent`
 
 ##### Pool  
-###### POOL1  
-###### - MINING - `[minerd -a sha256d -o stratum+tcp://shortbread.pool.bitcointwin.org:3001 -u [address]]`  
-
-###### POOL2
-###### - MINING - `[minerd -a sha256d -o stratum+tcp://compote.pool.bitcointwin.org:3001 -u [address]]`  
-
-###### POOL3
-###### - MINING - `[minerd -a sha256d -o stratum+tcp://caramel.pool.bitcointwin.org:3001 -u [address]]`  
-
-###### POOL4
-###### - MINING - `[minerd -a sha256d -o stratum+tcp://screw.pool.bitcointwin.org:3001 -u [address]]`  
-
+###### POOL1 - `[minerd -a sha256d -o stratum+tcp://shortbread.pool.bitcointwin.org:3001 -u [address]]`  
+###### POOL2 - `[minerd -a sha256d -o stratum+tcp://compote.pool.bitcointwin.org:3001 -u [address]]`  
+###### POOL3 - `[minerd -a sha256d -o stratum+tcp://caramel.pool.bitcointwin.org:3001 -u [address]]`  
+###### POOL4 - `[minerd -a sha256d -o stratum+tcp://screw.pool.bitcointwin.org:3001 -u [address]]`  
 
 ##### Social
 ###### TWITTER - https://twitter.com/bitcointwin  
