@@ -13,8 +13,7 @@
     "bits": 486604799,
     "difficulty": 1
 }
-```
-```
+
 1568926800
 Is equivalent to:
 09/19/2019 @ 9:00pm (UTC)
